@@ -1,0 +1,25 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "flutter_sqflite_easiest_tutorial_flutter_tutorial_for_beginners_by_the_growing_developer",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "flutter_sqflite_easiest_tutorial_flutter_tutorial_for_beginners_by_the_growing_developer (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "flutter_sqflite_easiest_tutorial_flutter_tutorial_for_beginners_by_the_growing_developer (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}

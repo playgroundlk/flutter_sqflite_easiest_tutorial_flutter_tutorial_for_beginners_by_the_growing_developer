@@ -1,0 +1,20 @@
+name: flutter_sqflite_easiest_tutorial_flutter_tutorial_for_beginners_by_the_growing_developer
+description: "The most awaited and most requested by the viewers on the channel is here.❤️ . In this video we will learn the implementation of Sqflite in the most simplest ways possible.Learn to make a local database for your mobile application."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,5 @@
+package com.example.flutter_sqflite_easiest_tutorial_flutter_tutorial_for_beginners_by_the_growing_developer
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
